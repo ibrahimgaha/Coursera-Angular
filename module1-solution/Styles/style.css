@@ -1,0 +1,7 @@
+body{margin:50px}
+.message { font-size: 1.3em; font-weight: bold; }
+.btn_mar{margin-top:15px;padding:15px; font-weight: 600;}
+
+.green-message {
+    color: green;
+  }
